@@ -274,7 +274,6 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-search-bar](https://github.com/umhan35/react-native-search-bar/) - The native search bar for react native.
 - [react-native-seekbar-android](https://github.com/DispatcherInc/react-native-seekbar-android/) - A React Native wrapper Android's SeekBar
 - [react-native-segmented-view](https://github.com/lelandrichardson/react-native-segmented-view/) - Segmented View for React Native (with animation)
-- [react-native-select-box](https://github.com/akiran/react-native-select-box/) - react native select box
 - [react-native-simple-auth](https://github.com/adamjmcgrath/react-native-simple-auth/) - Native social authentication for React Native on iOS
 - [react-native-simple-sound](https://github.com/mikehedman/react-native-simple-sound/) - Start, stop, and pause a sound. iOS only. Derived from https://github.com/zmxv/react-native-sound
 - [react-native-simple-store](https://github.com/jasonmerino/react-native-simple-store/) - A minimalistic wrapper around React Native's AsyncStorage.
